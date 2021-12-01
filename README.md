@@ -21,16 +21,16 @@ In order to view changes are made to any code refresh the page; nodemon is utilz
 
 Uses ESLint.\
 In the project directory, run `eslint --init` in terminal.\
-ESLint suggested configuration:\
+ESLint suggested configuration:
 
 How would you like to use ESLint.\
-Select `To check syntax, find problems, and enforce code style`\
+Select `To check syntax, find problems, and enforce code style`
 
 What type of modules does your project use?\
-Select `CommonJS (require/exports)`\
+Select `CommonJS (require/exports)`
 
 Which framework does your project use?\
-Select `React`\
+Select `React`
 
 Does your project use TypeScript?\
 Select `No`
@@ -39,16 +39,16 @@ Where does your code run? …  (Press <space> to select, <a> to toggle all, <i> 
 Press `a`
 
 How would you like to define a style for your project?\
-Select `Use a popular style guide`\
+Select `Use a popular style guide`
 
 Which style guide do you want to follow?\
-Select `Airbnb: https://github.com/airbnb/javascript`\
+Select `Airbnb: https://github.com/airbnb/javascript`
 
 What format do you want your config file to be in?\
 Select `JSON`
 
  Would you like to install them now with npm?\
- Select `Yes`\
+ Select `Yes`
 
 ## Learn More
 
