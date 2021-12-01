@@ -1,6 +1,6 @@
 # Getting Started
 
-This project uses:
+This project uses:\
 -React\
 -Webpack\
 -Babel\
