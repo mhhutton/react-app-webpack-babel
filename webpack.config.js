@@ -4,7 +4,7 @@ const DIST_DIR = path.join(__dirname, '/client/dist');
 
 module.exports = {
   mode: 'development',
-  entry: `${SRC_DIR}/index.js`,
+  entry: `${SRC_DIR}/index.jsx`,
   output: {
     path: `${DIST_DIR}`,
     filename: 'bundle.js'
@@ -12,7 +12,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js$/,
+        test: /\.jsx$/,
         exclude: /node_modules/,
         loader: 'babel-loader'
       },
